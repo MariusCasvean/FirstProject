@@ -1,0 +1,36 @@
+h1 {
+	background-color: lightblue;
+	width: 20%;
+	text-align: center;
+	border-radius: 10px;
+	box-shadow: 3px 3px gray;
+}
+
+.firstList {
+	background-color: brown;
+	font-size: 28px;
+	width: 15%;
+}
+
+li:hover {
+	cursor: pointer;
+	color: yellow;
+}
+
+.mail {
+	width: 50%;
+	text-align: center;
+	background-color: gray;
+	font-family: Verdana;
+	font-size: 16px;
+}
+
+.footer {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: orange;
+	text-align: center;
+	font-size: 18px;
+}
